@@ -1,4 +1,3 @@
-# main.py
 from product_manager import Product, ProductManager
 from cart_manager import Cart
 
